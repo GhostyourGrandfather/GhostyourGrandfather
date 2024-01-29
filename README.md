@@ -3,7 +3,6 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostyourGrandfather&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhostyourGrandfather&theme=solarized_dark)
-https://github.com/Platane/snk.git
 <!--
 **GhostyourGrandfather/GhostyourGrandfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
