@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Artemy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostyourGrandfather&theme=solarized_dark)
+
 <!--
 **GhostyourGrandfather/GhostyourGrandfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostyourGrandfather&theme=solarized_dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
