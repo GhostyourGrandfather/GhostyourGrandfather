@@ -3,6 +3,7 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <!--
 **GhostyourGrandfather/GhostyourGrandfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-contribution-grid-snake](https://github.com/UdalovDA/UdalovDA/assets/144095529/68d7470c-8cef-4a75-920f-6dea2238dbed)
 
 Here are some ideas to get you started:
 
