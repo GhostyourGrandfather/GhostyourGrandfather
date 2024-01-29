@@ -3,8 +3,8 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostyourGrandfather&theme=solarized_dark)
 **GhostyourGrandfather/GhostyourGrandfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
 Here are some ideas to get you started:
 
